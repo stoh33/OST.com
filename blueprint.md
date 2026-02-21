@@ -13,4 +13,5 @@ A web-based lotto number recommender with a personal touch. Features a modern, i
 - [x] Add "채윤공주님 사랑해 ❤️❤️❤️" to the header.
 - [x] Implement a button that generates 5 sets of lotto numbers.
 - [x] Style the app for a premium look.
+- [x] Implement Dark/Light Mode functionality with persistence.
 - [x] Update documentation in `blueprint.md`.
